@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.caja {
+	background-color: white;
+	margin: 10px;
+	width: 200px;
+	border: 2px solid orange; 
+	float: left;
+	padding: 15px 10px;
+}
+
+

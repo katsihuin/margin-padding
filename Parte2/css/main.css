@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.uno {
+	background-color: white;
+	margin: 10px;
+	width: 200px;
+	border: 2px solid orange; 
+	
+	padding: 15px 10px;
+	position:relative;
+
+}
+
+.dos {
+	background-color: white;
+	margin: 10px;
+	width: 200px;
+	border: 2px solid orange; 
+
+	padding: 15px 10px;
+	position:relative;
+	
+}
+
+.tres {
+	background-color: white;
+	margin: 10px;
+	width: 200px;
+	border: 2px solid orange; 
+	padding: 15px 10px;
+	position:relative;
+}
